@@ -1,11 +1,13 @@
 import React from "react";
 
-function HelloBootstrap() {
+
+function HelloBootstrapMain() {
   return (
+    <div className="background-image">
     <div className="container">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand" href="#">
-          Navbar
+          Christal Vigil
         </a>
         <button
           className="navbar-toggler"
@@ -22,22 +24,30 @@ function HelloBootstrap() {
           <ul className="navbar-nav mr-auto">
 
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="home">
                 Home 
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="about">
                 About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="contact">
                 Contact
               </a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
+            <li className="nav-item dropdown">
+              <a
+                className="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
                 Development
               </a>
             </li>
@@ -56,10 +66,10 @@ function HelloBootstrap() {
         </p>
       </div>
       <div className="card">
-        
      </div>
     </div>
+  </div>
   );
 }
 
-export default HelloBootstrap;
+export default HelloBootstrapMain;

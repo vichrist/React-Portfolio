@@ -1,12 +1,11 @@
 import React from 'react'; 
 
-
-class Header extends Component {
-    return (props) {
-        <div>
-            <p> Welcome to my portfolio  </p>
+function HeaderPage() {
+    return (
+        <div className='main-header'>
+            <p>This is a header</p>
         </div>
-    }
-}
+    )
+};
 
-export default Header; 
+export default HeaderPage; 
