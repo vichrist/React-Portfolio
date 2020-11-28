@@ -1,8 +1,7 @@
 import React from "react";
 
 
-
-function HelloBootstrapMain() {
+function DevelopmentMain() {
   return (
     <div className="background-image">
     <div className="container">
@@ -46,20 +45,61 @@ function HelloBootstrapMain() {
       </nav>
       <div className="jumbotron">
       
-        <h1>~Welcome to my Portfolio~</h1>
+        <h1>Projects</h1>
         <p>
-          Enim adipisicing enim reprehenderit ex ullamco consectetur Lorem laboris magna
-          exercitation. Aliquip reprehenderit magna elit cillum adipisicing dolore aliquip velit.
-          Ipsum ullamco nostrud tempor eu deserunt ipsum incididunt fugiat esse ipsum. Exercitation
-          nostrud exercitation sit ex nostrud aliqua officia magna nostrud deserunt et esse eu
-          deserunt. Non dolor consequat qui ea culpa tempor magna nulla consectetur est occaecat.
+            Place Images Here!
         </p>
       </div>
       <div className="card">
     </div>
+    <div className="jumbotron">
+      
+      <h1>Projects</h1>
+      <p>
+          Place Images Here!
+      </p>
+    </div>
+    <div className="card">
+  </div>
+  <div className="jumbotron">
+      
+      <h1>Projects</h1>
+      <p>
+          Place Images Here!
+      </p>
+    </div>
+    <div className="card">
+  </div>
+  <div className="jumbotron">
+      
+      <h1>Projects</h1>
+      <p>
+          Place Images Here!
+      </p>
+    </div>
+    <div className="card">
+  </div>
+  <div className="jumbotron">
+      
+      <h1>Projects</h1>
+      <p>
+          Place Images Here!
+      </p>
+    </div>
+    <div className="card">
+  </div>
+  <div className="jumbotron">
+      
+      <h1>Projects</h1>
+      <p>
+          Place Images Here!
+      </p>
+    </div>
+    <div className="card">
+  </div>
     </div>
   </div>
   );
 }
 
-export default HelloBootstrapMain;
+export default DevelopmentMain;

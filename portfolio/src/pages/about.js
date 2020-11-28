@@ -1,12 +1,12 @@
 import React from 'react'; 
-
+import HelloBootstrapMain from '../components/bootstrapmain';
 
 function AboutPage () {
-    return (
+  return (
         <div>
-        <p>this is the home page</p>
+        <HelloBootstrapMain/>
         </div>
-    );
+    ); 
 };
 
 export default AboutPage; 

@@ -1,11 +1,10 @@
 import React from 'react'; 
-
-
+import DevelopmentMain from '../components/developmentmain'
 
 function DevelopmentPage () {
     return (
         <div>
-        <p>this is the Development Page</p>
+        <DevelopmentMain/>
         </div>
     )
 };

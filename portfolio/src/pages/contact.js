@@ -1,9 +1,10 @@
 import React from 'react'; 
+import HelloBootstrapMain from '../components/bootstrapmain';
 
 function ContactPage () {
     return (
         <div>
-         <p>this is the contact page</p>
+        <HelloBootstrapMain/>
         </div>
     )
 }; 
