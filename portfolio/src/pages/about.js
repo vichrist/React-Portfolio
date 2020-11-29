@@ -1,10 +1,10 @@
 import React from 'react'; 
-import HelloBootstrapMain from '../components/bootstrapmain';
+import AboutMain from '../components/aboutmain';
 
 function AboutPage () {
   return (
         <div>
-        <HelloBootstrapMain/>
+        <AboutMain/>
         </div>
     ); 
 };
