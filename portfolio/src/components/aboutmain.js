@@ -44,22 +44,22 @@ function AboutMain() {
             </li>
           </ul>
         </div>
+       
       </nav><br></br>
 
-  
+      <div className="image">
 
       <div className="jumbotron">
-      
-      <h1>Full Stack Web Developer</h1>
-        <p>
-        Opportunity is what has allowed me to discover both my interests and passions. The idea of exerting knowledge to serve as a resource of any sort is a reward of its own. While I have embarked a few different journeys, I have realized that my interests and passions have led to very different paths and for the first time, I have finally experienced a passion for something---full stack web development!
+      <h1 className="h1about">~ABOUT~</h1>
+      <h2 className="h2about">Full Stack Web Developer</h2>
+        <p className="p1about">
+        It is opportunity that has allowed me to discover both my interests and passions. The idea of exerting knowledge to serve as a resource of any sort is a reward of its own. While I have embarked a few different journeys, I have realized that my interests and passions have led to very different paths and for the first time, I have finally experienced a passion for something---full stack web development!
         </p>   
-        <p className="quote"><q>Sometimes in the wave of change we find our true direction.</q> Author Unknown</p>
+        <p className="quote"><q>Sometimes in the wave of change we find our true direction.</q> <br></br>Author Unknown</p>
    
       </div>
-      <div className="card">
     </div>
-   </div>
+  </div>
    <br></br>
   </div>
   );

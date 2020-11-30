@@ -64,7 +64,7 @@ function DevelopmentMain() {
       </ul>
         <img src= "../images/Project1" alt="project 1" width="1200"/>
     </div><div className="card">
-  </div>
+  </div><br></br>
 
 
     <div className="jumbotron">
@@ -79,7 +79,7 @@ function DevelopmentMain() {
         </ul>
           <img src= "../images/project2" alt="project 2" width="1200"/>
       </div><div className="card">
-    </div>
+    </div><br></br>
 
     <div className="jumbotron">
       
@@ -93,7 +93,7 @@ function DevelopmentMain() {
         </ul>
           <img src= "../images/Project3" alt="project 3" width="1200"/>
       </div><div className="card">
-    </div>
+    </div><br></br>
 
     <div className="jumbotron">
       
@@ -107,7 +107,7 @@ function DevelopmentMain() {
         </ul>
           <img src= "../images/project4" alt="project 4" width="1200"/>
       </div><div className="card">
-    </div>
+    </div><br></br>
 
     <div className="jumbotron">
 
@@ -121,7 +121,7 @@ function DevelopmentMain() {
         </ul>
           <img src= "../images/Project5" alt="project 5" width="1200"/>
       </div><div className="card">
-    </div>
+    </div><br></br>
 
     <div className="jumbotron">
       
@@ -134,10 +134,7 @@ function DevelopmentMain() {
             <a href="https://github.com/vichrist/WK-6Homework" target="_blank" rel="noreferrer" ><li>GitHub Repository</li></a>
         </ul>
           <img src= "../images/Project6" alt="project 6" width="1200"/>
-      </div><div className="card">
-    </div>
-
-
+      </div>
   </div>
   <br></br>
 </div>

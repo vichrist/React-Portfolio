@@ -1,14 +1,25 @@
+.image {
+    background-image: url('../images/christal1.jpg');
+    background-size: 25%;
+    background-position: right;
+    background-repeat: repeat
+  
+}
 .quote {
     text-align: center;
     font-style: italic;
     font-size: 18px;
     color: rgb(71, 17, 163);
 }
-h1, h2 {
+.h1about {
     font-family: cursive;
-}
-p {
     text-align: center;
+}
+.h2about {
+    text-align: center;
+}
+.p1about {
+    text-align: left;
 }
 .motto{
     color: rgb(71, 17, 163); 
