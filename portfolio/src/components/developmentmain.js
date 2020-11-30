@@ -127,7 +127,7 @@ function DevelopmentMain() {
       
         <h1 className='development'>Weather Dashboard</h1>
         <p className='development'>
-        Choose a city to get updated weather details. See that your recently searched citites will append to a list for tracking.  
+        Choose a city to get updated weather details. See that your recently searched cities will append to a list for tracking.  
       </p>
         <ul>
             <a href="https://vichrist.github.io/vichrist.wk6.github.io/" target="_blank" rel="noreferrer" ><li>Deployed App</li></a>
