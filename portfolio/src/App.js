@@ -29,18 +29,3 @@ class App extends Component {
 
 export default App;
 
-
-// class App extends Component {
-//   render() {
-//     return (
-//       <div> 
-//        <HomePage />
-//        <DevelopmentPage />
-//        <ContactPage /> 
-//        <AboutPage />
-//       </div>
-//     );
-//   }
-// }
-
-// export default App;
