@@ -1,5 +1,6 @@
 import React from "react";
 import '../css/aboutmain.css'; 
+import '../images/christal.jpg';
 
 
 function AboutMain() {
