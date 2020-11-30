@@ -1,11 +1,11 @@
 import React from "react";
-import '../css/aboutmain.css'; 
+import '../css/homemain.css'; 
 
 
-function AboutMain() {
+
+function HomeMain() {
   return (
     <div className="background-image">
-    <div className="container">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">Christal Vigil
         <button
           className="navbar-toggler"
@@ -43,25 +43,35 @@ function AboutMain() {
             </li>
           </ul>
         </div>
-      </nav><br></br>
-
+      </nav>
+      <br></br>
   
-
       <div className="jumbotron">
-      
-      <h1>Full Stack Web Developer</h1>
-        <p>
-        Opportunity is what has allowed me to discover both my interests and passions. The idea of exerting knowledge to serve as a resource of any sort is a reward of its own. While I have embarked a few different journeys, I have realized that my interests and passions have led to very different paths and for the first time, I have finally experienced a passion for something---full stack web development!
-        </p>   
-        <p className="quote"><q>Sometimes in the wave of change we find our true direction.</q> Author Unknown</p>
-   
-      </div>
-      <div className="card">
+      <div className="container-home">
+
+      <h1>Development Standards for Structural Design</h1>
+      <p>
+        As a developer it is not only my mission to meet my clients objectives, but a vision to build a solid  relationship that will entrust my services on an ongoing basis. Allow me to provide structural quality code strategies that will not only see to enhance your Search Engine Optimization, but standards that will provide access to a range of users via responsive layouts, integrated testing strategies that will prevent delays when it's time to go web-live, and compatibility that will give access to the majority of web-broswers therefore promoting larger customer base activity. 
+    </p>
+    <div className="card">
     </div>
    </div>
-   <br></br>
   </div>
+
+  <div className="jumbotron">
+      <div className="container-home">
+
+      <h1>UI Standards for Structural Design</h1>
+      <p>
+        The user interface (UI) design standards are concepts that are integrated within the development stage of building an engaging user experience. Let's get innovative in the stage of creativity and enhance both the usability and beauty of your website.  
+    </p>
+    <div className="card">
+    </div>
+   </div>
+  </div>
+  <br></br>
+</div>
   );
 }
 
-export default AboutMain;
+export default HomeMain;

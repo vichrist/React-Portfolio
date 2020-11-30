@@ -1,0 +1,23 @@
+.background-image {
+    background-image: url('../images/background11.jpg');
+    background-size: cover
+}
+
+/* 
+#root {
+   
+    background-color: rgb(218, 203, 218);
+} */
+h1 {
+    text-align: center;
+    font-size: 10px;
+}
+.container-home {
+    margin: auto;
+    width: 90%;
+}
+.jumbotron {
+    width: 76%;
+    margin: auto;
+    font-size: 15px;
+}

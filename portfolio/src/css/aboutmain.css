@@ -1,0 +1,22 @@
+.quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+    color: rgb(71, 17, 163);
+}
+h1, h2 {
+    font-family: cursive;
+}
+p {
+    text-align: center;
+}
+.motto{
+    color: rgb(71, 17, 163); 
+}
+.container {
+    width: 100%;
+   
+   
+    /* border: 2px solid black; */
+
+}

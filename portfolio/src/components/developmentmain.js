@@ -1,4 +1,5 @@
 import React from "react";
+import '../css/developmentmain.css'; 
 
 
 function DevelopmentMain() {
@@ -42,11 +43,11 @@ function DevelopmentMain() {
             </li>
           </ul>
         </div>
-      </nav>
+      </nav><br></br>
 
   <div className="jumbotron">
       
-      <h1>Bill Boards</h1>
+      <h1 className='development'>Bill Boards</h1>
       <ul>
           <a href="https://sleepy-eyrie-55325.herokuapp.com/" target="_blank"><li>Deployed App</li></a>
           <a href="https://github.com/vichrist/BillBoards" target="_blank"><li>GitHub Repository</li></a>
@@ -58,7 +59,7 @@ function DevelopmentMain() {
 
     <div className="jumbotron">
       
-        <h1>Weather Trips</h1>
+        <h1 className='development'>Weather Trips</h1>
         <ul>
             <a href="https://mmcginley32.github.io/project1/index.html" target="_blank"><li>Deployed App</li></a>
             <a href="https://github.com/mmcginley32/project1" target="_blank"><li>GitHub Repository</li></a>
@@ -69,7 +70,7 @@ function DevelopmentMain() {
 
     <div className="jumbotron">
       
-        <h1>Eat-Da-Burger</h1>
+        <h1 className='development'>Eat-Da-Burger</h1>
         <ul>
             <a href="https://stormy-tundra-38579.herokuapp.com/" target="_blank"><li>Deployed App</li></a>
             <a href="https://github.com/vichrist/Add-Da-Burger-App" target="_blank"><li>GitHub Repository</li></a>
@@ -80,7 +81,7 @@ function DevelopmentMain() {
 
     <div className="jumbotron">
       
-        <h1>Password Generator</h1>
+        <h1 className='development'>Password Generator</h1>
         <ul>
             <a href="https://vichrist.github.io/Password-Generator-/" target="_blank"><li>Deployed App</li></a>
             <a href="https://github.com/vichrist/Password-Generator-" target="_blank"><li>GitHub Repository</li></a>
@@ -91,7 +92,7 @@ function DevelopmentMain() {
 
     <div className="jumbotron">
 
-        <h1>Work Day Planner</h1>
+        <h1 className='development'>Work Day Planner</h1>
         <ul>
             <a href="https://vichrist.github.io/Work-Day-Planner/" target="_blank"><li>Deployed App</li></a>
             <a href="https://github.com/vichrist/WK-5Homework" target="_blank"><li>GitHub Repository</li></a>
@@ -102,7 +103,7 @@ function DevelopmentMain() {
 
     <div className="jumbotron">
       
-        <h1>Weather Dashboard</h1>
+        <h1 className='development'>Weather Dashboard</h1>
         <ul>
             <a href="https://vichrist.github.io/vichrist.wk6.github.io/" target="_blank"><li>Deployed App</li></a>
             <a href="https://github.com/vichrist/WK-6Homework" target="_blank"><li>GitHub Repository</li></a>
@@ -113,6 +114,7 @@ function DevelopmentMain() {
 
 
   </div>
+  <br></br>
 </div>
   );
 }

@@ -1,10 +1,10 @@
 import React from 'react'; 
-import HelloBootstrapMain from '../components/bootstrapmain';
+import HomeMain from '../components/homemain';
 
 function HomePage () {
     return (
         <div>
-        <HelloBootstrapMain/>
+        <HomeMain/>
         </div>
     )
 };
