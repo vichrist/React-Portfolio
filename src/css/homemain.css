@@ -25,12 +25,13 @@
     text-align: center;
     color: gainsboro;
 }
-.pmain {
-    font-size: medium;
-    text-align: center;
-}
+
 .phome {
     text-align: left;
+    font-size: small;
+}
+.pmain {
+    text-align: center;
     font-size: small;
 }
 
@@ -42,4 +43,4 @@
     width: 50%;
     margin: auto;
     font-size: 15px;
-}
+} 
