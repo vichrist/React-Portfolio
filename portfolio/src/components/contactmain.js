@@ -44,10 +44,11 @@ function ContactMain () {
           </ul>
         </div>
       </nav><br></br>
-      <div className="jumbotron">
+      <div className="imageconnect"> 
+        <div className="jumbotron">
         <div className ="main-contact"> 
         <h2>Services for Full Stack Web Development</h2>
-        <h1><b> Let's Connect Today!</b></h1>
+        <h1 className="h1connect"><b> Let's Connect Today!</b></h1>
         <h3>Visit me on Github or LinkedIn or contact me via phone or email</h3>
         <p className="contact"><b>Email:</b> c.vigil27@gmail.com | <b>Mobile:</b> 720.891.6797</p>
 
@@ -58,6 +59,7 @@ function ContactMain () {
 
         </div>
         </div>
+      </div>
       </div>
     </div>
     <br></br>

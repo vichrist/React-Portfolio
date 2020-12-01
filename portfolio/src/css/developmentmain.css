@@ -1,9 +1,6 @@
 .development {
     text-align: left;
 }
-
-/* .jumbotrondev {
-    width: 40%;
-    margin: auto;
-    font-size: 15px;
-} */
+.development {
+    color: rgb(82, 82, 10);
+}

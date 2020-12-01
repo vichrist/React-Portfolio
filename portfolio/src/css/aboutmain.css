@@ -9,11 +9,12 @@
     text-align: center;
     font-style: italic;
     font-size: 18px;
-    color: rgb(71, 17, 163);
+    color: rgb(82, 82, 10);
 }
 .h1about {
     font-family: cursive;
     text-align: center;
+    color: rgb(82, 82, 10);
 }
 .h2about {
     text-align: center;
@@ -22,7 +23,7 @@
     text-align: left;
 }
 .motto{
-    color: rgb(71, 17, 163); 
+    color: rgb(82, 82, 10); 
 }
 .container {
     width: 100%;
